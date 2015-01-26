@@ -1,0 +1,10 @@
+2.44,3.98,Kendal Mint Cake
+3.97,1.71,Pith Helmet
+4.02,4.00,Bread
+1.41,1.55,Olive Oil
+3.35,3.65,Tent
+3.46,1.78,Firewood
+1.19,2.70,Water
+4.64,1.04,Ammunition
+4.53,3.11,Tinned Food
+4.17,0.20,Weapon
